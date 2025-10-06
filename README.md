@@ -23,5 +23,6 @@ git clone https://github.com/Shirozo/Laravel-Plain-React-Boiler-Plate.git
 cd Laravel-Plain-React-Boiler-Plate
 composer install
 npm install
+php artisan key:generate
 php artisan make migration
 ```
